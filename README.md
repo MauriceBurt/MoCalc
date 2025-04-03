@@ -29,12 +29,18 @@ It’s built to support engineers like me who need quick results, repeatable log
 - Added confirmation prompts for exits
 - Enhanced flow between calculators and main menu
 
-### 🔹 Version 2.3 *(Current)*
+### 🔹 Version 2.3
 - Added Subnetting Option A: Convert IP address to binary format
 - Better prompts and validation when entering octets
 - More comments for code clarity and modular planning
 - Solid foundation laid for future subnetting modes
 
+###  🔹 Version 2.4 *(Current)*
+- Added Option B: Calculate total and usable hosts from a CIDR block
+- Added Option C: Determine the subnet address from IP and CIDR input
+- Added Option D: VLSM-based subnet planning from a base IP and multiple device counts
+- Outputs include: network ID, CIDR, total hosts, usable IP range, and broadcast address
+- Refined logical flow and improved user feedback handling throughout
 ---
 
 ## 🛠️ Who It’s For
