@@ -43,8 +43,8 @@ Version 2 of MoCalc introduces **modular design** and powerful subnetting tools 
 ---
 
 ## 🚧 Coming Soon in v3.x:
-- 🖥  **GUI version using PyQt — for those who prefer windows over CLI
-- 📦  **pip install support — install MoCalc like any other Python tool
+- 🖥  **GUI version using PyQt** — for those who prefer windows over CLI
+- 📦  **pip install support** — install MoCalc like any other Python tool
 - 🐳  *Optional:* **Docker container** for portable usage
 - 🔌  *Optional:* **API wrapper** for integrating with other tools
 
