@@ -26,20 +26,27 @@ Version 2 of MoCalc introduces **modular design** and powerful subnetting tools 
 - Better user prompts and instructions for subnetting tools
 - Cleaner logic and exit handling
 
+### ✅ v2.4 - Advanced Subnetting + VLSM Support
+- Added Option B: Calculate total and usable hosts from a CIDR block
+- Added Option C: Determine subnet address from IP and CIDR input
+- Added Option D: VLSM-based subnet planning from a base IP and device counts
+- Outputs include: **network ID**, **CIDR**, **total hosts**, **usable IP range**, and **broadcast address**
+- Refined logic flow and improved user feedback handlign throughout
 ---
 
 ## 🧪 Designed For:
-- **IT students & junior engineers** learning subnetting  
-- **Network+ learners** practicing binary conversion  
-- Anyone building foundational Python automation skills
-
+- 📚 **Teachers** introducing students to subnetting or binary
+- 🏢 **Companies** who need an internal tool for quick calculations
+- 🛠 **Field professionals** doing IP planning or troubleshooting
+- 💡 **Students** and **junior network engineers** learning the ropes
+- 🧮 Anyone dealing with **subnets**, **IP math**, or **binary conversions**
 ---
 
 ## 🚧 Coming Soon in v3.x:
-- Calculate usable hosts per subnet  
-- Identify subnet address ranges  
-- GUI interface with PyQt  
-- Prep for pip packaging and installer  
+- 🖥  **GUI version using PyQt — for those who prefer windows over CLI
+- 📦  **pip install support — install MoCalc like any other Python tool
+- 🐳  *Optional:* **Docker container** for portable usage
+- 🔌  *Optional:* **API wrapper** for integrating with other tools
 
 ---
 
